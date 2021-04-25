@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Achievements &#8211; mlzn</title>
+	<atom:link href="https://mlzn.systm.site/category/blogs/achievements/feed/" rel="self" type="application/rss+xml" />
+	<link>https://mlzn.systm.site</link>
+	<description></description>
+	<lastBuildDate>Sun, 25 Apr 2021 02:45:14 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7.1</generator>
+	<item>
+		<title>test A</title>
+		<link>https://mlzn.systm.site/2021/04/25/test-a/</link>
+					<comments>https://mlzn.systm.site/2021/04/25/test-a/#respond</comments>
+		
+		<dc:creator><![CDATA[marvlzn]]></dc:creator>
+		<pubDate>Sun, 25 Apr 2021 02:45:14 +0000</pubDate>
+				<category><![CDATA[Achievements]]></category>
+		<guid isPermaLink="false">https://mlzn.systm.site/?p=92</guid>
+
+					<description><![CDATA[1st sample]]></description>
+										<content:encoded><![CDATA[
+<p>1st sample</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://mlzn.systm.site/2021/04/25/test-a/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Passing Exam CCNA R&#038;S</title>
+		<link>https://mlzn.systm.site/2021/04/25/achievements/</link>
+					<comments>https://mlzn.systm.site/2021/04/25/achievements/#respond</comments>
+		
+		<dc:creator><![CDATA[marvlzn]]></dc:creator>
+		<pubDate>Sun, 25 Apr 2021 02:39:09 +0000</pubDate>
+				<category><![CDATA[Achievements]]></category>
+		<guid isPermaLink="false">https://mlzn.systm.site/?p=87</guid>
+
+					<description><![CDATA[Cisco Certified Network Associate Routing and Switching (CCNA Routing and Switching).]]></description>
+										<content:encoded><![CDATA[
+<p>Cisco Certified Network Associate Routing and Switching (CCNA Routing and Switching).</p>
+
+
+
+<div class="wp-block-buttons is-content-justification-center">
+<div class="wp-block-button"><a class="wp-block-button__link has-text-color has-background" href="https://www.credly.com/badges/05db2753-0ee4-49c4-a669-cfea636bc829/linked_in_profile" style="border-radius:50px;background:linear-gradient(135deg,rgb(135,9,53) 0%,rgb(179,22,22) 100%);color:#fffffa">CISCO VERIFICATION</a></div>
+</div>
+
+
+
+<p></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://mlzn.systm.site/2021/04/25/achievements/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
