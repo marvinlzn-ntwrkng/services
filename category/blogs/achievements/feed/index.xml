@@ -12,7 +12,7 @@
 	<atom:link href="https://mlzn.systm.site/category/blogs/achievements/feed/" rel="self" type="application/rss+xml" />
 	<link>https://mlzn.systm.site</link>
 	<description></description>
-	<lastBuildDate>Sun, 25 Apr 2021 02:45:14 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 25 Apr 2021 04:30:44 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -20,37 +20,38 @@
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=5.7.1</generator>
 	<item>
-		<title>test A</title>
-		<link>https://mlzn.systm.site/2021/04/25/test-a/</link>
-					<comments>https://mlzn.systm.site/2021/04/25/test-a/#respond</comments>
+		<title>Course Completion CCNP ENCOR (350-401)</title>
+		<link>https://mlzn.systm.site/2021/04/25/course-completion-ccnp-encor/</link>
+					<comments>https://mlzn.systm.site/2021/04/25/course-completion-ccnp-encor/#respond</comments>
 		
 		<dc:creator><![CDATA[marvlzn]]></dc:creator>
-		<pubDate>Sun, 25 Apr 2021 02:45:14 +0000</pubDate>
+		<pubDate>Sun, 25 Apr 2021 04:30:02 +0000</pubDate>
 				<category><![CDATA[Achievements]]></category>
-		<guid isPermaLink="false">https://mlzn.systm.site/?p=92</guid>
+		<guid isPermaLink="false">https://mlzn.systm.site/?p=141</guid>
 
-					<description><![CDATA[1st sample]]></description>
+					<description><![CDATA[Finishing ENCOR Course thru ITProTV on March 21, 2021.]]></description>
 										<content:encoded><![CDATA[
-<p>1st sample</p>
+<p>Finishing ENCOR Course thru ITProTV on March 21, 2021. </p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://mlzn.systm.site/2021/04/25/test-a/feed/</wfw:commentRss>
+					<wfw:commentRss>https://mlzn.systm.site/2021/04/25/course-completion-ccnp-encor/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Passing Exam CCNA R&#038;S</title>
-		<link>https://mlzn.systm.site/2021/04/25/achievements/</link>
-					<comments>https://mlzn.systm.site/2021/04/25/achievements/#respond</comments>
+		<link>https://mlzn.systm.site/2021/04/25/passing-exam-ccna-rs/</link>
+					<comments>https://mlzn.systm.site/2021/04/25/passing-exam-ccna-rs/#respond</comments>
 		
 		<dc:creator><![CDATA[marvlzn]]></dc:creator>
-		<pubDate>Sun, 25 Apr 2021 02:39:09 +0000</pubDate>
+		<pubDate>Sun, 25 Apr 2021 04:11:24 +0000</pubDate>
 				<category><![CDATA[Achievements]]></category>
-		<guid isPermaLink="false">https://mlzn.systm.site/?p=87</guid>
+		<guid isPermaLink="false">https://mlzn.systm.site/?p=85</guid>
 
-					<description><![CDATA[Cisco Certified Network Associate Routing and Switching (CCNA Routing and Switching).]]></description>
+					<description><![CDATA[]]></description>
 										<content:encoded><![CDATA[
+<div class="wp-block-group"><div class="wp-block-group__inner-container">
 <p>Cisco Certified Network Associate Routing and Switching (CCNA Routing and Switching).</p>
 
 
@@ -62,9 +63,14 @@
 
 
 <p></p>
+</div></div>
+
+
+
+<p></p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://mlzn.systm.site/2021/04/25/achievements/feed/</wfw:commentRss>
+					<wfw:commentRss>https://mlzn.systm.site/2021/04/25/passing-exam-ccna-rs/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
